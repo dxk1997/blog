@@ -1,0 +1,8 @@
+/* 引入全局字体（meow.otf） */
+@font-face {
+  font-family: 'LWGX';
+  src: url('/fonts/LWGX.woff2') format('woff2');  /* otf字体，ttf把format改成truetype */
+  font-weight: normal;
+  font-style: normal;
+}
+
